@@ -1,1 +1,1 @@
-The landing page at [vedaweb.uni-koeln.de](https://vedaweb.uni-koeln.de/) 
+The landing page at [vedaweb.uni-koeln.de](https://vedaweb.uni-koeln.de/)
