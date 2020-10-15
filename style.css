@@ -37,12 +37,13 @@ ul, ol {
     list-style: circle inside;
 }
 
-p {
-    margin: 1rem 0;
+dt {
+    font-weight: bold;
+    margin-top: .5rem;
 }
 
 .pad {
-    padding: 2rem 0;
+    padding: 2rem 1rem;
 }
 
 .site-frame {
@@ -94,9 +95,7 @@ main {
 }
 
 main p {
-    /*columns: 2;
-    column-gap: 2rem;*/
-    padding: 0 1rem;
+    margin-bottom: .5rem;
 }
 
 /*
@@ -107,7 +106,6 @@ main p {
 
 
 .publication {
-    padding: 0 1rem;
     margin-bottom: 1.5rem;
     font-size: 20px;
 }
@@ -217,7 +215,6 @@ hr {
 h2 {
     font-size: 20px;
     color: #931111;
-    padding-left: 1rem;
     margin-bottom: 1rem;
 }
 
@@ -225,7 +222,6 @@ h3 {
     font-size: 20px;
     font-weight: normal;
     color: #931111;
-    padding-left: 1rem;
     margin-top: 1.5rem;
     margin-bottom: 1rem;
 }
