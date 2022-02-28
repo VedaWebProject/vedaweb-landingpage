@@ -34,7 +34,7 @@ body {
 }
 
 ul, ol {
-    list-style: circle inside;
+    list-style: circle;
 }
 
 dt {
