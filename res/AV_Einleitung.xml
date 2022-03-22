@@ -18,21 +18,25 @@
             </publicationStmt>
             <sourceDesc>
                 <p>TEI-Datei erstellt auf Basis eines unveröffentlichten Manuskripts des Autors
-                        (<date when="2021-12">Dezember 2021</date>)</p>
+                    (<date when="2021-12">Dezember 2021</date>)</p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
-    <TEI xml:id="einleitung">
+     <TEI xml:id="einleitung">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>Einleitung</title>
+                    <title>Atharvaveda der Śaunakaśākhā - Einleitung</title>
+                    <author>Jeong-Soo Kim</author>
                 </titleStmt>
                 <publicationStmt>
-                    <p/>
+                    <distributor>Thiago Venturott</distributor>
+                    <pubPlace>Würzburg</pubPlace>
+                    <date when="2022">2022</date>
                 </publicationStmt>
                 <sourceDesc>
-                    <p/>
+                    <p>TEI-Datei erstellt auf Basis eines unveröffentlichten Manuskripts des Autors
+                            (<date when="2021-12">Dezember 2021</date>)</p>
                 </sourceDesc>
             </fileDesc>
         </teiHeader>
@@ -1846,14 +1850,16 @@
                                         besten Akzentuiertes sei. Darüber hinaus erstellt <bibl><ref
                                                 target="#SPP">SPP</ref></bibl> eine zusammenfassende
                                         Gruppierung seiner Mss. Zu der ersten Gruppe sollen A., B.,
-                                        C., D., E., R., Sm., Cs., P., P2., J. und Cp. gehören
-                                            (<quote>„come from Gujarāt, though not from the same
-                                            original source. They are untainted by any attempts to
-                                            revise the tradition of the text, and probably represent
-                                            the original form of the true tradition of the text ...
-                                            The text given in this edition is chieftly that of the
-                                            first group ...“</quote>). Die zweite Gruppe sollen Bp.,
-                                        Bh., K., Km., V. und Dc. bilden (<quote>„was revised in the
+                                        C., D., E., R., S<hi rend="sup">m</hi>., Cs., P., P<hi
+                                            rend="sup">2</hi>., J. und Cp. gehören (<quote>„come
+                                            from Gujarāt, though not from the same original source.
+                                            They are untainted by any attempts to revise the
+                                            tradition of the text, and probably represent the
+                                            original form of the true tradition of the text ... The
+                                            text given in this edition is chieftly that of the first
+                                            group ...“</quote>). Die zweite Gruppe sollen Bp., B<hi
+                                            rend="sup">h</hi>., K., K<hi rend="sup">m</hi>., V. und
+                                        Dc. bilden (<quote>„was revised in the
                                                 <placeName>Deccan</placeName>; where it was
                                             introduced about 160 years ago, under the influences of
                                             the school of Rgvedins and was further subjected to
@@ -2074,26 +2080,26 @@
                                             >Witzel 1989</ref>, <biblScope unit="page" n="21"
                                             >21</biblScope></bibl>). Nach <persName ref="#MWitzel"
                                         >Michael Witzel</persName> (per Email) soll das Manuskript
-                                    N. (siehe <ref target="#einleitung_02_03_02_01">oben</ref>) auch in diesem Zeitraum entstanden sein, weil
-                                    König Bhūpatīndra Malla damals sehr viele vedische Texte
-                                    abschreiben ließ.<note xml:id="anm61" n="61" place="bottom"
-                                        anchored="true">Siehe dazu auch <bibl><ref
-                                                target="#witzel_2016">Witzel 2016</ref>, <biblScope
-                                                unit="page" n="354">354</biblScope></bibl>:
-                                            <quote>„In sum, it is very likely that this Ms. was
-                                            copied into Newari characters from a Gujarat original
-                                            written in Nāgarī. Due to the close cultural relations
-                                            between Nepal and Benares it most likely was obtained
-                                            from Pañcolī Brahmins at Benares, where they had moved
-                                            around 1550 CE. There are a few other Mss. in Nepal that
-                                            stem from Gujarat Vaidika Brahmins, such as a Lilāvatī
-                                            Jyotiṣa Ms.“</quote> und <bibl><ref
-                                                target="#witzel_2016">Witzel 2016</ref>, <biblScope
-                                                unit="page" from="376" to="377"
-                                            >376f.</biblScope></bibl>: <quote>„... it may however be
-                                            pointed out that the same development is also seen in
-                                            contemporary Nepal, where the newly in- dependent
-                                            kingdom of Pātan (south of Kathmandu, 1621 CE)
+                                    N. (siehe <ref target="#einleitung_02_03_02_01">oben</ref>) auch
+                                    in diesem Zeitraum entstanden sein, weil König Bhūpatīndra Malla
+                                    damals sehr viele vedische Texte abschreiben ließ.<note
+                                        xml:id="anm61" n="61" place="bottom" anchored="true">Siehe
+                                        dazu auch <bibl><ref target="#witzel_2016">Witzel
+                                            2016</ref>, <biblScope unit="page" n="354"
+                                                >354</biblScope></bibl>: <quote>„In sum, it is very
+                                            likely that this Ms. was copied into Newari characters
+                                            from a Gujarat original written in Nāgarī. Due to the
+                                            close cultural relations between Nepal and Benares it
+                                            most likely was obtained from Pañcolī Brahmins at
+                                            Benares, where they had moved around 1550 CE. There are
+                                            a few other Mss. in Nepal that stem from Gujarat Vaidika
+                                            Brahmins, such as a Lilāvatī Jyotiṣa Ms.“</quote> und
+                                                <bibl><ref target="#witzel_2016">Witzel 2016</ref>,
+                                                <biblScope unit="page" from="376" to="377"
+                                                >376f.</biblScope></bibl>: <quote>„... it may
+                                            however be pointed out that the same development is also
+                                            seen in contemporary Nepal, where the newly in-
+                                            dependent kingdom of Pātan (south of Kathmandu, 1621 CE)
                                             established a strong Krishnaite tradition, beginning
                                             with its first king, Siddhinarasiṃha Malla. He built an
                                             uncharacteristic stone temple for Kr̥ṣṇa at the new
@@ -2242,9 +2248,10 @@
                                     stützenden Mss. sollen circa drei- bis vierhundert Jahre alt
                                     sein. Der 20. Kāṇḍa, dessen größter Teil die rigvedischen
                                     Parallelen enthält, bietet in seiner Edition neue Erkenntnisse:
-                                    Es handelt sich um die <ref target="#einleitung_02_03_02_02">oben</ref> erwähnte Pratīka-Praxis in
-                                    20.47.4-21, 20.89.9-11, 20.96.6-10, 20.96.17-23, 20.107.4-14 und
-                                    20.125.6-7. An allen Stellen fehlen die Krama-Texte (<bibl><ref
+                                    Es handelt sich um die <ref target="#einleitung_02_03_02_02"
+                                        >oben</ref> erwähnte Pratīka-Praxis in 20.47.4-21,
+                                    20.89.9-11, 20.96.6-10, 20.96.17-23, 20.107.4-14 und 20.125.6-7.
+                                    An allen Stellen fehlen die Krama-Texte (<bibl><ref
                                             target="#deshpande_2002">Deshpande 2002</ref>,
                                             <biblScope unit="page" n="lx">lx</biblScope></bibl>).
                                     Dafür sind dort die Pratīka-Kennzeichnungen angeführt, also wie
@@ -2480,17 +2487,21 @@
             </body>
         </text>
     </TEI>
-    <TEI xml:id="abkürzungen">
+     <TEI xml:id="abkürzungen">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>Abkürzungen</title>
+                    <title>Atharvaveda der Śaunakaśākhā - Abkürzungen</title>
+                    <author>Jeong-Soo Kim</author>
                 </titleStmt>
                 <publicationStmt>
-                    <p/>
+                    <distributor>Thiago Venturott</distributor>
+                    <pubPlace>Würzburg</pubPlace>
+                    <date when="2022">2022</date>
                 </publicationStmt>
                 <sourceDesc>
-                    <p/>
+                    <p>TEI-Datei erstellt auf Basis eines unveröffentlichten Manuskripts des Autors
+                            (<date when="2021-12">Dezember 2021</date>)</p>
                 </sourceDesc>
             </fileDesc>
         </teiHeader>
@@ -2704,8 +2715,8 @@
                             <pubPlace>Wiesbaden</pubPlace>
                         <date when="1992">1992</date></bibl>
                     <lb/>
-                    <bibl xml:id="Ho">Hö. [siehe <ref target="#einleitung_02_03_01_02">Einleitung
-                            2.3.1.2</ref>]</bibl>
+                    <bibl xml:id="Ho"><abbr>Hö.</abbr> [siehe <ref target="#einleitung_02_03_01_02"
+                            >Einleitung 2.3.1.2</ref>]</bibl>
                     <lb/>
                     <bibl xml:id="JaiGS"><abbr>JaiGS</abbr> = <hi rend="italic"
                             >Jaiminīyagr̥hyasūtra</hi> (= <ref target="#caland_1922">Caland
@@ -2806,8 +2817,8 @@
                                 >Pañcaviṃśabrāhmaṇa</hi></title> (= <ref
                             target="#chinnaswami_1935_6">Chinnaswami Śastri 1935-1936</ref>).</bibl>
                     <lb/>
-                    <bibl xml:id="Prat">Prāt. = <title><hi rend="italic"
-                        >Prātiśākhya</hi></title>.</bibl>
+                    <bibl xml:id="Prat"><abbr>Prāt.</abbr> = <title><hi rend="italic"
+                                >Prātiśākhya</hi></title>.</bibl>
                     <lb/>
                     <bibl xml:id="PW"><abbr>PW</abbr> = <author><persName><surname
                                     ref="#OBoehtlingk">Böhtlingk</surname>,
@@ -2988,17 +2999,21 @@
             </body>
         </text>
     </TEI>
-    <TEI xml:id="literaturverzeichnis">
+     <TEI xml:id="literaturverzeichnis">
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>Literaturverzeichnis</title>
+                    <title>Atharvaveda der Śaunakaśākhā - Literaturverzeichnis</title>
+                    <author>Jeong-Soo Kim</author>
                 </titleStmt>
                 <publicationStmt>
-                    <p/>
+                    <distributor>Thiago Venturott</distributor>
+                    <pubPlace>Würzburg</pubPlace>
+                    <date when="2022">2022</date>
                 </publicationStmt>
                 <sourceDesc>
-                    <p/>
+                    <p>TEI-Datei erstellt auf Basis eines unveröffentlichten Manuskripts des Autors
+                            (<date when="2021-12">Dezember 2021</date>)</p>
                 </sourceDesc>
             </fileDesc>
         </teiHeader>
@@ -3479,7 +3494,7 @@
                         <biblScope unit="volume">V</biblScope>. <pubPlace>Halle</pubPlace>
                         <date when="1888">1888</date>. [= <ref target="#AiSynt">AiSynt</ref>]</bibl>
                     <lb/>
-                    <bibl xml:id="deshpande_1888" type="monogr"
+                    <bibl xml:id="deshpande_1997" type="monogr"
                                     ><author><persName><surname>Deshpande</surname>,
                                     <forename>Madhav M.</forename></persName></author>, <title
                             level="m"><hi rend="italic">Śaunakīyā Caturādhyāyikā. A Prātiśākhya of
@@ -3540,6 +3555,13 @@
                                 Series</title>
                             <biblScope unit="volume" n="66">66</biblScope>]</bibl></bibl>
                     <lb/>
+                    <bibl xml:id="gaastra_1919" type="dict"
+                                    ><author><persName><surname>Gaastra</surname>,
+                                    <forename>Dieuke</forename></persName></author>, <title
+                            level="m"><hi rend="italic">Das Gopatha Brāhmaṇa</hi></title>.
+                            <pubPlace>Heidelberg</pubPlace>
+                        <date when="1919">1919</date>. [= <ref target="#GB">GB</ref>]</bibl>
+                    <lb/>
                     <bibl xml:id="garbe_1878" type="monogr"
                                     ><author><persName><surname>Garbe</surname>,
                                     <forename>Richard</forename></persName></author>, <title
@@ -3557,12 +3579,14 @@
                         <date from="1882" to="1902">1882-1902</date>. [= <ref target="#ApSS"
                             >ĀpŚS</ref>]</bibl>
                     <lb/>
-                    <bibl xml:id="gaastra_1919" type="dict"
-                                    ><author><persName><surname>Gaastra</surname>,
-                                    <forename>Dieuke</forename></persName></author>, <title
-                            level="m"><hi rend="italic">Das Gopatha Brāhmaṇa</hi></title>.
-                            <pubPlace>Heidelberg</pubPlace>
-                        <date when="1919">1919</date>. [= <ref target="#GB">GB</ref>]</bibl>
+                    <bibl xml:id="geib_1976" type="article"
+                                    ><author><persName><surname>Geib</surname>,
+                                    <forename>Ruprecht</forename></persName></author>, <title
+                            level="a"><hi rend="italic">Agní Kravyā́d</hi> das Fleisch fressende
+                            Feuer im Ṛg- und Atharvaveda</title>. <bibl><title level="j">KZ</title>
+                            <biblScope unit="issue">89</biblScope>, <date when="1976">1976</date>,
+                                <biblScope unit="page" from="189" to="220"
+                            >189-220</biblScope>.</bibl></bibl>
                     <lb/>
                     <bibl xml:id="gelder_1961_3" type="dict"><author><persName><surname>[van]
                                     Gelder</surname>,
@@ -3572,15 +3596,6 @@
                         <pubPlace>New Delhi</pubPlace>
                         <date from="1961" to="1963">1961-1963</date>. [= <ref target="#ManSS"
                             >MānŚS</ref>]</bibl>
-                    <lb/>
-                    <bibl xml:id="geib_1976" type="article"
-                                    ><author><persName><surname>Geib</surname>,
-                                    <forename>Ruprecht</forename></persName></author>, <title
-                            level="a"><hi rend="italic">Agní Kravyā́d</hi> das Fleisch fressende
-                            Feuer im Ṛg- und Atharvaveda</title>. <bibl><title level="j">KZ</title>
-                            <biblScope unit="issue">89</biblScope>, <date when="1976">1976</date>,
-                                <biblScope unit="page" from="189" to="220"
-                            >189-220</biblScope>.</bibl></bibl>
                     <lb/>
                     <bibl xml:id="geldner_1951_57" type="monogr"
                                     ><author><persName><surname>Geldner</surname>, <forename>Karl
@@ -4048,6 +4063,22 @@
                                 the Commentary of Mātṛidatta</title></hi>. <pubPlace>Wien</pubPlace>
                         <date when="1889">1889</date>. [= <ref target="#HirGS">HirGS</ref>]</bibl>
                     <lb/>
+                    <bibl xml:id="klein_1978" type="monogr"
+                                    ><author><persName><surname>Klein</surname>,
+                                    <forename>Jared</forename></persName></author>, <hi
+                            rend="italic"><title level="m">The Particle u in the Rigveda</title>.
+                                <title level="m" type="sub">A Synchronic and Diachronic
+                                Study</title></hi>. <pubPlace>Göttingen</pubPlace>
+                        <date when="1978">1978</date>.</bibl>
+                    <lb/>
+                    <bibl xml:id="klein_1992" type="article"
+                                    ><author><persName><surname>Klein</surname>,
+                                    <forename>Jared</forename></persName></author>, <title level="a"
+                            >On Verbal Accentuation in the Rigveda</title>. <pubPlace>New
+                            Haven</pubPlace>, <title level="j">American Oriental Society</title>,
+                            <biblScope unit="article" n="11">Essay Number 11</biblScope>, <date
+                            when="1992">1992</date>.</bibl>
+                    <lb/>
                     <bibl xml:id="knauer_2007" type="monogr"
                                     ><author><persName><surname>Knauer</surname>,
                                     <forename>Friedrich</forename></persName></author>, <hi
@@ -4147,22 +4178,6 @@
                                 <biblScope unit="issue" n="76/2">76/2</biblScope>, <date when="2013"
                                 >2013</date>, <biblScope unit="page" from="259" to="269"
                                 >259-269</biblScope>.</bibl></bibl>
-                    <lb/>
-                    <bibl xml:id="klein_1978" type="monogr"
-                                    ><author><persName><surname>Klein</surname>,
-                                    <forename>Jared</forename></persName></author>, <hi
-                            rend="italic"><title level="m">The Particle u in the Rigveda</title>.
-                                <title level="m" type="sub">A Synchronic and Diachronic
-                                Study</title></hi>. <pubPlace>Göttingen</pubPlace>
-                        <date when="1978">1978</date>.</bibl>
-                    <lb/>
-                    <bibl xml:id="klein_1992" type="article"
-                                    ><author><persName><surname>Klein</surname>,
-                                    <forename>Jared</forename></persName></author>, <title level="a"
-                            >On Verbal Accentuation in the Rigveda</title>. <pubPlace>New
-                            Haven</pubPlace>, <title level="j">American Oriental Society</title>,
-                            <biblScope unit="article" n="11">Essay Number 11</biblScope>, <date
-                            when="1992">1992</date>.</bibl>
                     <lb/>
                     <bibl xml:id="kuemmel_1996" type="monogr"
                                     ><author><persName><surname>Kümmel</surname>, <forename>J.
@@ -4540,19 +4555,19 @@
                                 >2</hi><hi rend="smallcaps">R/Wh</hi></ref> = <ref target="#RWh3"
                                 ><hi rend="sup">3</hi><hi rend="smallcaps">R/Wh</hi></ref>]</bibl>
                     <lb/>
-                    <bibl xml:id="schaefer_1994" type="monogr"
-                                    ><author><persName><surname>Schaefer</surname>,
-                                    <forename>Christiane</forename></persName></author>, <hi
-                            rend="italic"><title level="m">Das Intensivum im Vedischen</title></hi>.
-                            <pubPlace>Göttingen</pubPlace>
-                        <date when="1994">1994</date>.</bibl>
-                    <lb/>
                     <bibl xml:id="scarlata_1999" type="monogr"
                                     ><author><persName><surname>Scarlata</surname>,
                                     <forename>Salvatore</forename></persName></author>, <hi
                             rend="italic"><title level="m">Die Wurzelkomposita im
                             R̥gveda</title></hi>. <pubPlace>Wiesbaden</pubPlace>
                         <date when="1999">1999</date>.</bibl>
+                    <lb/>
+                    <bibl xml:id="schaefer_1994" type="monogr"
+                                    ><author><persName><surname>Schaefer</surname>,
+                                    <forename>Christiane</forename></persName></author>, <hi
+                            rend="italic"><title level="m">Das Intensivum im Vedischen</title></hi>.
+                            <pubPlace>Göttingen</pubPlace>
+                        <date when="1994">1994</date>.</bibl>
                     <lb/>
                     <bibl xml:id="scheftelowitz_1906" type="monogr"
                                     ><author><persName><surname>Scheftelowitz</surname>,

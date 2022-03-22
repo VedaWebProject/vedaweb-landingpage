@@ -35,6 +35,7 @@ body {
 
 ul, ol {
     list-style: circle;
+    padding-left: 2em;
 }
 
 dt {
