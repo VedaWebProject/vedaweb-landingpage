@@ -6,7 +6,7 @@
         <teiHeader>
             <fileDesc>
                 <titleStmt>
-                    <title>Atharvaveda der Śaunakaśākhā - Kāṇḍa 1</title>
+                    <title>Atharvavedasaṃhitā der Śaunakaśākhā - Kāṇḍa 1</title>
                     <author>Jeong-Soo Kim</author>
                 </titleStmt>
                 <publicationStmt>
@@ -15,8 +15,9 @@
                     <date when="2022">2022</date>
                 </publicationStmt>
                 <sourceDesc>
-                    <p>TEI-Datei erstellt auf Basis eines unveröffentlichten Manuskripts des Autors
-                            (<date when="2021-12">Dezember 2021</date>)</p>
+                    <p>TEI-Datei erstellt auf Basis des <ref
+                        target="https://www.phil.uni-wuerzburg.de/fileadmin/04080400/2022/AVS_Text_12_2021.pdf"
+                        >Manuskripts vom <date when="2021-12">Dezember 2021</date></ref>.</p>
                 </sourceDesc>
             </fileDesc>
         </teiHeader>
@@ -26,8 +27,8 @@
                     <head>Kāṇḍa 1</head>
                     <div xml:id="b01_h001" n="1.1" type="hymn">
                         <div xml:id="b01_h001_01" n="1.1.1" type="stanza">
-                            <head><note xml:id="anm68" n="68" anchored="true" place="bottom">Nnp.
-                                    und Np. beginnen gemeinsam mit <hi rend="italic">śrīgaṇeśāya
+                            <head><note xml:id="anm68" n="68" anchored="true" place="bottom"><ref target="#Nnp">Nnp.</ref>
+                                und <ref target="#Np">Np.</ref> beginnen gemeinsam mit <hi rend="italic">śrīgaṇeśāya
                                         namaḥ || śrīsarasvatyai namaḥ || śrīgurubhyo namaḥ || || śā
                                         ||</hi>, zu <hi rend="italic">śā</hi> am Ende siehe
                                             <bibl><ref target="#witzel_2016">Witzel 2016</ref>,
@@ -707,7 +708,7 @@
                             </lg>
                         </div>
                         <div xml:id="b01_h007_02" n="1.7.2" type="stanza">
-                            <head>= P 4.4.2 • <hi rend="bold">b</hi> = P 7.18.2f = <ref
+                            <head>= P 4.4.2 • <hi rend="bold">b</hi> = P 7.18.2f = P 19.28.4b =<ref
                                     target="#b05_h008_02">Ś 5.8.2f</ref> • <hi rend="bold">d</hi> =
                                     <ref target="#b01_h007_06_d">Ś 1.7.6d</ref></head>
                             <lg>
@@ -1510,9 +1511,9 @@
                                                 rend="smallcaps">R/Wh</hi></ref></bibl>, <bibl><ref
                                             target="#WhI"><hi rend="smallcaps">WhI</hi></ref></bibl>
                                     und <bibl><ref target="#SPP">SPP</ref></bibl> ergibt keinen
-                                    Sinn. <hi rend="italic">Vātabhrajās</hi> (so <ref
+                                    Sinn. <hi rend="italic">Vātabhrajās</hi> (so <bibl><ref
                                         target="#Bhatt1997"><hi rend="smallcaps">Bhatt</hi>
-                                        1997</ref>) in <ref target="#AVP">AVP</ref> 1.17.1b ist
+                                        1997</ref></bibl>) in <ref target="#AVP">AVP</ref> 1.17.1b ist
                                     ebenfalls zu <hi rend="italic">*vātābhrajās</hi> zu emendieren,
                                     siehe zu dieser Annahme <ref target="#AVS">AVŚ</ref> 1.12.3c
                                         (<hi rend="italic">yó abhrajā́ vātajā́ḥ</hi>) = <ref
@@ -1708,9 +1709,9 @@
                                     hat <hi rend="italic">|| śam°óthāt ||</hi>. Das Manuskript <ref
                                         target="#N">N.</ref> liest jedoch <hi rend="italic"
                                         >samópyāt</hi> (keine Emendation). Auch die <ref
-                                        target="#AVP">AVP</ref>-Pararellstelle 1.15.3d (<ref
+                                        target="#AVP">AVP</ref>-Pararellstelle 1.15.3d (<bibl><ref
                                         target="#Bhatt1997"><hi rend="smallcaps">Bhatt</hi>
-                                        1997</ref>) hat <hi rend="italic">samopyāt</hi>.</note></l>
+                                            1997</ref></bibl>) hat <hi rend="italic">samopyāt</hi>.</note></l>
                         </div>
                         <div xml:id="b01_h014_04" n="1.14.4" type="stanza">
                             <head><hi rend="bold">a</hi> ~ P 1.15.4a • <hi rend="bold">bcd</hi> = P
@@ -2401,9 +2402,9 @@
                                             >Wh/L</hi></ref></bibl>. <bibl><ref target="#RWh"><hi
                                                 rend="smallcaps">R/Wh</hi></ref></bibl> druckt in
                                     solchen Fällen <hi rend="italic">hr̥dyotó</hi>, während
-                                            <bibl><ref target="#SPP">SPP</ref></bibl> und <ref
-                                        target="#Bhatt1997"><hi rend="smallcaps">Bhatt</hi>
-                                        1997</ref> an der <ref target="#AVP"
+                                        <bibl><ref target="#SPP">SPP</ref></bibl> und <bibl><ref
+                                            target="#Bhatt1997"><hi rend="smallcaps">Bhatt</hi>
+                                            1997</ref></bibl> an der <ref target="#AVP"
                                     >AVP</ref>-Parallelstelle <hi rend="italic">hr̥ddyotó</hi>
                                     wieder herstellen. Im Pp.-Text hat man entweder <hi
                                         rend="italic">| hr̥-dyotáḥ |</hi> (so in Bo. von <bibl><ref
@@ -2459,9 +2460,9 @@
                                                 rend="smallcaps">R/Wh</hi></ref></bibl> zwar: „<hi
                                         rend="italic">róhiṇīdevatyās</hi>; RW<hi rend="sup">1</hi> :
                                         <hi rend="italic">róhiṇīr devatyās</hi>“, aber er druckt im
-                                    Text <hi rend="italic">róhiṇīdevatyā̀3</hi>. <ref
-                                        target="#Bhatt1997"><hi rend="smallcaps">Bhatt</hi>
-                                        1997</ref> zu <ref target="#AVP">AVP</ref> 1.28.3a hat <hi
+                                        Text <hi rend="italic">róhiṇīdevatyā̀3</hi>. <bibl><ref
+                                            target="#Bhatt1997"><hi rend="smallcaps">Bhatt</hi>
+                                            1997</ref></bibl> zu <ref target="#AVP">AVP</ref> 1.28.3a hat <hi
                                         rend="italic">rohiṇīr devapatyā</hi> (siehe auch <ref
                                         target="#Bhatt2006"><hi rend="smallcaps">Bhatt</hi>
                                         2006</ref> zu <ref target="#AVP">AVP</ref> 19.20.3a: <hi
@@ -2496,7 +2497,7 @@
                                             >1</hi>: <hi rend="italic">súkeṣu</hi>“</quote>
                                     <hi rend="italic">śúkeṣu</hi> in den Text setzt. <bibl><ref
                                             target="#RWh1"><hi rend="sup">1</hi><hi rend="smallcaps"
-                                                >R/Wh</hi></ref></bibl>, <bibl><ref target="#RWh1"
+                                                >R/Wh</hi></ref></bibl>, <bibl><ref target="#WhI"
                                             >WhI</ref></bibl> und <bibl><ref target="#SPP"
                                         >SPP</ref></bibl> haben <hi rend="italic">súkeṣu</hi>. Auch
                                         <ref target="#N">N.</ref> und <ref target="#Np">Np.</ref>
@@ -2507,8 +2508,9 @@
                                     zwei von <bibl><ref target="#SPP">SPP</ref></bibl>s Saṃhitā- (K.
                                     und V.) und zwei seiner Pp.-Mss. (K. und V.) <hi rend="italic"
                                         >śúkeṣu</hi> lesen. Die Parallelstellen, <ref target="#AVP"
-                                        >AVP</ref> 1.28.4a (<ref target="#Bhatt1997"><hi
-                                            rend="smallcaps">Bhatt</hi> 1997</ref>) und <ref
+                                            >AVP</ref> 1.28.4a (<bibl><ref
+                                                target="#Bhatt1997"><hi rend="smallcaps">Bhatt</hi>
+                                                1997</ref></bibl>) und <ref
                                         target="#RV">RV</ref> 1.50.12a sowie <ref target="#TB"
                                         >TB</ref> 3.7.6.22a und <ref target="#ApSS">ĀpŚS</ref>
                                     4.15.1a, haben einheitlich <hi rend="italic">śúkeṣu</hi> bzw.
@@ -2706,8 +2708,9 @@
                                             >śāmā́</hi>“</quote>
                                         <hi rend="italic">śyāmā́</hi> in den Text setzt. Die <ref
                                             target="#AVP">AVP</ref>-Parallelstelle hat <hi
-                                            rend="italic">śyāmā</hi> (<ref target="#Bhatt1997"><hi
-                                                rend="smallcaps">Bhatt</hi> 1997</ref>).</note>
+                                                rend="italic">śyāmā</hi> (<bibl><ref
+                                                    target="#Bhatt1997"><hi rend="smallcaps">Bhatt</hi>
+                                                    1997</ref></bibl>).</note>
                                     <hi rend="italic">sarūpaṃkáraṇī</hi></l>
                                 <l xml:id="b01_h024_04_b"><hi rend="italic">pr̥thivyā́ ádhy údbhr̥tā
                                         |</hi></l>
@@ -2769,9 +2772,9 @@
                                         xml:id="anm139" place="bottom" n="139" anchored="true">So
                                         emendiert nach der <ref target="#AVP"
                                         >AVP</ref>-Parallelstelle (<hi rend="sup">+</hi><hi
-                                            rend="italic">śakalyeṣu</hi>, wobei <ref
-                                            target="#Bhatt1997"><hi rend="smallcaps">Bhatt</hi>
-                                            1997</ref>
+                                            rend="italic">śakalyeṣu</hi>, wobei <bibl><ref
+                                                target="#Bhatt1997"><hi rend="smallcaps">Bhatt</hi>
+                                                1997</ref></bibl>
                                         <hi rend="italic">śākalyeṣu</hi> druckt, jedoch aufgrund der
                                         Übereinstimmung mit den <ref target="#AVP"
                                         >AVP</ref>-Or.-Mss. <hi rend="italic">sakalyeṣu</hi> der
@@ -2834,8 +2837,9 @@
                                         >huḍuḥ</hi>, BiS. 2. <hi rend="italic">hrūḍu</hi>° 3. <hi
                                             rend="italic">hūḍu</hi>° sic.“. <ref target="#N"
                                             >N.</ref> und <ref target="#Np">Np.</ref> haben <hi
-                                            rend="italic">hrúdrur</hi>. <ref target="#Bhatt1997"><hi
-                                                rend="smallcaps">Bhatt</hi> 1997</ref> an der <ref
+                                                rend="italic">hrúdrur</hi>. <bibl><ref
+                                                    target="#Bhatt1997"><hi rend="smallcaps">Bhatt</hi>
+                                                    1997</ref></bibl> an der <ref
                                             target="#AVP">AVP</ref>-Parallelstelle hat dagegen <hi
                                             rend="italic">huḍur</hi> (<hi rend="italic">hutur</hi>
                                         Vā.). Das Wort <hi rend="italic">huḍu-</hi> (neben <hi
@@ -3261,7 +3265,7 @@
                         </div>
                         <div xml:id="b01_h029_05" n="1.29.5" type="stanza">
                             <head><hi rend="bold">a</hi> = P 1.11.4a = P 2.35.1a = P 2.41.1a = P
-                                19.29.10c • <hi rend="bold">b</hi> = <ref target="#b04_h004_02_b">Ś
+                                19.29.10a • <hi rend="bold">b</hi> = <ref target="#b04_h004_02_b">Ś
                                     4.4.2b</ref> = P 1.11.4b [~ <ref target="#RV">RV</ref> 10.159.1b
                                 etc.] • <hi rend="bold">c</hi> ~ P 1.11.4c • <hi rend="bold">d</hi>
                                 = <ref target="#b10_h006_30_c">Ś 10.6.30c</ref> = <ref
